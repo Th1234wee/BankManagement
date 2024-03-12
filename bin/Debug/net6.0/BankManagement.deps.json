@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankManagement/1.0.0": {
+        "dependencies": {
+          "BankClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BankManagement.dll": {}
+        }
+      },
+      "BankClassLibrary/1.0.0": {
+        "runtime": {
+          "BankClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
